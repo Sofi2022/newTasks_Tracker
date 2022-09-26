@@ -1,0 +1,5 @@
+id,type,name,status,description,epic,start,duration
+1,TASK,newTask1,NEW,newDescription,2000-01-01T02:00,15
+2,SUBTASK,Собрать коробки,NEW,Расфасовать их по категориям,0,2000-01-01T05:00,1
+3,EPIC,epic1,NEW,EpicDescription1,2000-01-01T07:00,0
+
